@@ -1,0 +1,5 @@
+{
+  "name": "TalentScout AI",
+  "description": "An intelligent recruiting agent that analyzes Job Descriptions, builds candidate personas, and simulates sourcing candidates.",
+  "requestFramePermissions": []
+}
